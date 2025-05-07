@@ -17,9 +17,9 @@ Make sure you have Pillow installed (it’s included automatically when you inst
 
 ### 1. Import and use in your Python code:
 
+```bash
 from gifmaker import create_gif
 
-```bash
 # Parameters:
 # - input_folder: path to your folder of images
 # - output_gif: filename for the resulting GIF
